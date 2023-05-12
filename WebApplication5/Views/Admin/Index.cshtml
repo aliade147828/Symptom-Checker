@@ -1,0 +1,27 @@
+﻿@using WebApplication5.ViewModels
+@model IEnumerable<userViewModel>
+<a asp-action="CreateDoctor" asp-controller="Admin">add new user</a>
+<h2>users</h2>
+    <table class="table table-striped">
+
+        <thead>
+              <th>id</th>
+            <th>user name</th>
+             <th>Role</th>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                     <td>@item.id</td>
+                    <td>@item.userName</td>
+                      <td>@string.Join(",", item.roles.ToList())</td>
+                     <td > <a asp-action="VisitDoctor"  asp-route-id="@item.id" class=" btn btn-warning">Visit</a></td>
+
+                       <td><a class=" btn btn-warning" asp-controller="Admin" asp-action="mangeRoles" asp-route-userId="@item.id"> mange role</a></td>
+                        <td><a class=" btn btn-warning" asp-controller="Admin" asp-action="deleteDoctor" asp-route-userId="@item.id"> delete</a></td>
+                </tr>
+                
+            }
+        </tbody>
+    </table>

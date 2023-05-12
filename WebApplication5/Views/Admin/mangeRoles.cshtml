@@ -1,0 +1,56 @@
+﻿@using WebApplication5.ViewModels
+@model userRoleViewModel
+
+
+<form method="post">
+
+
+
+
+
+    <div class="addRole-bg" >
+       
+        <div class="overlay">
+        <div class="card ">
+            <h2>@Model.userName</h2>
+             <p class="ps-2 "> add role </p>
+            <div class="card-body">
+                <input  type="hidden" asp-for="userId"/>
+
+            @for (var i = 0; i < Model.Roles.Count; i++)
+           {
+               <div><input type="hidden" asp-for="@Model.Roles[i].RoleName"/>
+                   <input  asp-for="@Model.Roles[i].isSelected" class="form-check-input"/>
+               
+               <label class="form-check-label" asp-for="@Model.Roles[i].isSelected">@Model.Roles[i].RoleName</label>
+               </div>
+           }
+           <button type="submit" class="btn  btn-primary">save</button>
+        </div>
+            </div>
+          </div>
+        </div>
+    </div>
+
+
+
+
+
+
+@*
+        <div class="card-body">
+            <input  type="hidden" asp-for="userId"/>
+
+            @for (var i = 0; i < Model.Roles.Count; i++)
+           {
+               <div><input type="hidden" asp-for="@Model.Roles[i].RoleName"/>
+                   <input  asp-for="@Model.Roles[i].isSelected" class="form-check-input"/>
+               
+               <label class="form-check-label" asp-for="@Model.Roles[i].isSelected">@Model.Roles[i].RoleName</label>
+               </div>
+           }
+        
+        </div>
+        <button type="submit" class="btn  btn-primary">save</button>
+*@
+</form>

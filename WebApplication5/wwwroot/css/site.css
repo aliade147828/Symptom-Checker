@@ -1,0 +1,248 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+
+.navbar {
+    z-index: 500;
+    margin-bottom: 0 !important;
+    background-color: rgba(40, 81, 99, 0.333) !important;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+/*manage role*/
+
+.addRole-bg {
+    position: relative;
+    background-image: url(../Images/pexels-pixabay-139398.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+}
+
+button {
+    transition: transform 0.5s;
+}
+
+.text:hover button {
+    background-color: #0B564A !important;
+    color: white !important;
+    border-color: 0B564A !important;
+}
+
+.card {
+    background-color: #0B564A;
+    width: 60%;
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: white;
+    padding: 25px;
+    color: #0B564A;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+   
+}
+/*home page*/
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+}
+
+
+
+.caption {
+    background-color: rgba(0, 0, 0, 0.09);
+    color: white;
+}
+
+.text1 {
+    text-align: center;
+    color: white !important;
+    margin-top: 15%;
+}
+
+    .text1 button {
+        border-color: black;
+        background-color: rgba(0, 0, 0, 0.322);
+        padding: 10px 20px;
+        transition: transform 0.5s;
+    }
+
+    .text1:hover button {
+        background-color: transparent;
+        color: black;
+        border-color: white;
+    }
+
+.about-text button {
+    transition: transform 0.5s;
+}
+
+.about-text:hover button {
+    background-color: transparent !important;
+    color: black !important;
+    border-color: black;
+}
+.home-pg {
+    position: relative;
+    background-image: url('../Images/ee9e63b7-0f3f-45bb-bc03-32f4e5f1e663.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0px;
+}
+
+
+/*login form*/
+
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('../Images/background.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top:0px;
+}
+
+.login-form {
+    /* Style the form with a gray background, padding, rounded corners, and a shadow */
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #bbb;
+    width: 50%;
+    text-align: center;
+}
+    .login-form input[type="email"],
+    .login-form input[type="password"],
+    .login-form input[type="tel"] {
+        /* Style the input fields with a full width, padding, bottom margin, rounded corners, and a shadow */
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        border: none;
+        box-shadow: 0 0 5px #bbb;
+        margin-left: -10px;
+    }
+
+
+    .login-form label {
+        margin-right: 20px;
+    }
+
+    .login-form .submit {
+        /* Style the submit button with a full width, padding, green background color, white text color, rounded corners, and a pointer cursor */
+        padding: 10px 50px;
+        background-color: green;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+        .login-form .submit:hover {
+            /* Change the submit button's background color to a lighter green when hovered over */
+            background-color: lightgreen;
+        }
+
+        /*floating contact icons*/
+.contact-icons {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: 5%;
+    left: 2%;
+    z-index:500;
+}

@@ -1,0 +1,58 @@
+﻿@using DAL.Entities
+
+@model IEnumerable<Doctor>  
+
+
+
+    <form asp-action="FindADoctor">
+
+        <input  placeholder="search by name" name="searchValue"/>
+        
+          <input  placeholder="search by name" type="submit" value="search"/>
+        
+    </form>
+
+
+   @if(Model.Count() >0)
+    {
+         <table class="table table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>@Html.DisplayNameFor(D=>D.UserName)</th>
+                   
+                
+                    <th> Visit</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var doctor in Model)
+                {
+                    <tr>
+                        <td >@doctor.UserName</td>
+                        
+               <td > <a asp-action="Details"  asp-route-id="@doctor.Id" class="btn btn-Info">Visit</a></td>
+
+
+
+                    </tr>
+
+
+                }
+
+                
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <h2 class="alert alert-danger "> there is no Doctor match </h2>
+    }
+
+
+
+
+                        
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@

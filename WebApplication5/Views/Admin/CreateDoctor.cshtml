@@ -1,0 +1,88 @@
+﻿@model CreateViewModel
+@using WebApplication5.BLL.Interfaces
+@using WebApplication5.BLL.Repositories
+@using SymptomChecker.Models
+@inject IDepartmentRepository DepartmentRepository
+@{
+    //var departments = new SelectList(ViewBag.departments ,"id", "name");
+       var departments = new SelectList( DepartmentRepository.GetAll() ,"DNO", "DName");
+}
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+
+    <div asp-validation-summary="All"></div>
+    <div class="reg-form">
+    <form asp-action="CreateDoctor" enctype="multipart/form-data">
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" placeholder="User Name" />
+        <span asp-validation-for="UserName"></span>
+        <br />
+        <label asp-for="Email"></label>
+        <input asp-for="Email" placeholder="Email" />
+        <span asp-validation-for="Email"></span>
+
+            <br />
+        <label asp-for="Password"></label>
+        <input asp-for="Password" placeholder="Password" type="password"/>
+        <span asp-validation-for="Password"></span>
+
+      
+        <br />
+          <label asp-for="ConfrimPassword"></label>
+        <input asp-for="ConfrimPassword"  placeholder="Confirm Password"type="password />
+        <span asp-validation-for="ConfrimPassword"></span>
+
+         <br />
+        <label asp-for="Location"></label>
+        <input asp-for="Location " placeholder="Location" />
+        <span asp-validation-for="Location"></span>
+
+         <br />
+        <label asp-for="WorkingHours"></label>
+        <input asp-for="WorkingHours" / placeholder="Working Hours">
+        <span asp-validation-for="WorkingHours"></span>
+
+         <br />
+
+
+        
+        <label asp-for="DNO"></label>
+        <select asp-for="DNO" asp-items="departments" >
+         <option>--select department</option>
+         </select>
+
+
+
+        <input  type="submit"  class=" btn btn-danger" value=" create"/>
+    </form>
+
+
+   </div>
+</body>
+</html>
+<style>
+  
+    .reg-form {
+          width:70%;
+    margin: auto;
+   margin-top:5%;
+  
+}
+input {
+    margin-top: 3px;
+    width: 100%;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+    padding: 10px;
+}
+</style>

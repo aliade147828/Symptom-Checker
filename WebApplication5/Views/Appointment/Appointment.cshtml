@@ -1,0 +1,50 @@
+﻿@model WebApplication5.ViewModels.AppointmentViewModel
+
+
+<h1>Appointment</h1>
+<div id="calendar"></div>
+
+
+<div class="modal fade appointmentModal" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <form asp-action="Appointment">
+                    <input hidden asp-for="DoctorId" />
+                    <div class="form-groub mb-3">
+                        <label asp-for="DoctorName"></label>
+                        <input asp-for="DoctorName" class="form-control"  readonly />
+                    </div>
+                    <div class="form-groub mb-3">
+                        <label asp-for="Date"></label>
+                        <input asp-for="Date" class="form-control date__input" readonly />
+                    </div>
+                    <div class="form-groub mb-3">
+                        <label asp-for="Name"></label>
+                        <input asp-for="Name" class="form-control" />
+                    </div>
+                    <div class="form-groub mb-3">
+                        <label asp-for="Email"></label>
+                        <input asp-for="Email" class="form-control" />
+                    </div>
+                    <div class="form-groub mb-3">
+                        <label asp-for="PhoneNumber"></label>
+                        <input asp-for="PhoneNumber" class="form-control" />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-success">Submit</button>
+                        <button type="button" class="btn btn-secondary" onclick="OnCloseModal()">Close</button>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.5/index.global.min.js'></script>
+    <script src="~/js/Appointment.js"></script>
+}

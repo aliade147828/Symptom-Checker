@@ -1,0 +1,635 @@
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\appsettings.Development.json
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\appsettings.json
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.StaticWebAssets.xml
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.exe
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.deps.json
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.json
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.dev.json
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Humanizer.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\cv-projects\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.AssemblyReference.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfoInputs.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfo.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CoreCompileInputs.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\scopedcss\bundle\WebApplication5.styles.css
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.Manifest.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.xml
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.input.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.output.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorCoreGenerate.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.Views.pdb
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CopyComplete
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.dll
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\refint\WebApplication5.dll
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.pdb
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.genruntimeconfig.cache
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\role\Index.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\user\Index.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\user\mangeRoles.cshtml.g.cs
+F:\cv-projects\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\user\Create.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\appsettings.json
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.StaticWebAssets.xml
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.exe
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.deps.json
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.json
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.dev.json
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Humanizer.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\BLL.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\DAL.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\BLL.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\bin\Debug\net5.0\DAL.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.AssemblyReference.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\scopedcss\bundle\WebApplication5.styles.css
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.Manifest.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.xml
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.input.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.output.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorCoreGenerate.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\DoctorController1\CreateDoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\role\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\user\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\user\mangeRoles.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.Views.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CopyComplete
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\refint\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.pdb
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\WebApplication5.genruntimeconfig.cache
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\DoctorController1\delete.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\DoctorController1\FindADoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5\WebApplication5\obj\Debug\net5.0\Razor\Views\DoctorController1\Details.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\appsettings.json
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.StaticWebAssets.xml
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.exe
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.deps.json
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.json
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.runtimeconfig.dev.json
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\WebApplication5.Views.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Humanizer.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\BLL.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\DAL.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\BLL.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\bin\Debug\net5.0\DAL.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.AssemblyReference.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.AssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\scopedcss\bundle\WebApplication5.styles.css
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.Manifest.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\staticwebassets\WebApplication5.StaticWebAssets.xml
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.input.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.TagHelpers.output.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorCoreGenerate.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.RazorTargetAssemblyInfo.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.Views.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.csproj.CopyComplete
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\refint\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.pdb
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\WebApplication5.genruntimeconfig.cache
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\mangeRoles.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\CreateDoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\deleteDoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\VisitDoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\User\Details.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\User\FindADoctor.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appointment\Appointment.cshtml.g.cs
+C:\Users\j\Desktop\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs

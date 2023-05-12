@@ -1,0 +1,15 @@
+﻿@using SymptomChecker.Models
+@model DoctorViewModel 
+
+
+<label class="col-form-label" asp-for="UserName" ></label>
+<input  readonly asp-for="UserName" class="form-control"/>
+
+<label class="col-form-label" asp-for="Location" ></label>
+<input  readonly asp-for="Location" class="form-control"/>
+
+
+<label class="col-form-label" asp-for="WorkingHours" ></label>
+<input  readonly asp-for="WorkingHours" class="form-control"/>
+
+<a asp-controller="Appointment" asp-action="Appointment" asp-route-doctorId="@Model.id">Make Appointment</a>
