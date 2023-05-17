@@ -181,6 +181,7 @@ body {
 
 /*login form*/
 
+
 .login-form-container {
     display: flex;
     flex-direction: column;
@@ -195,7 +196,7 @@ body {
 }
 
 .login-form {
-    /* Style the form with a gray background, padding, rounded corners, and a shadow */
+     Style the form with a gray background, padding, rounded corners, and a shadow 
     background-color: #f2f2f2;
     padding: 20px;
     border-radius: 10px;
@@ -206,7 +207,7 @@ body {
     .login-form input[type="email"],
     .login-form input[type="password"],
     .login-form input[type="tel"] {
-        /* Style the input fields with a full width, padding, bottom margin, rounded corners, and a shadow */
+         Style the input fields with a full width, padding, bottom margin, rounded corners, and a shadow 
         width: 100%;
         padding: 10px;
         margin-bottom: 20px;
@@ -222,7 +223,7 @@ body {
     }
 
     .login-form .submit {
-        /* Style the submit button with a full width, padding, green background color, white text color, rounded corners, and a pointer cursor */
+         Style the submit button with a full width, padding, green background color, white text color, rounded corners, and a pointer cursor 
         padding: 10px 50px;
         background-color: green;
         color: white;
@@ -233,7 +234,7 @@ body {
     }
 
         .login-form .submit:hover {
-            /* Change the submit button's background color to a lighter green when hovered over */
+             Change the submit button's background color to a lighter green when hovered over 
             background-color: lightgreen;
         }
 

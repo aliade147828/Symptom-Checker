@@ -28,3 +28,18 @@ C:\Users\j\Desktop\WebApplication5 - Copy\DAL\obj\Debug\net5.0\refint\DAL.dll
 C:\Users\j\Desktop\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.pdb
 C:\Users\j\Desktop\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
 C:\Users\j\Desktop\WebApplication5 - Copy\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\DAL\obj\Debug\net5.0\ref\DAL.dll

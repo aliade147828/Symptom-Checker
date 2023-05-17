@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zukeuofI8dleMRyDR1XuQGs4wP7QCX2eT6gnrNBw29XPes6jhZ0r7PJ3gHUB1ffVRMtyz99+GEszn2Bb9cZILA==",
+  "dgSpecHash": "KUv42RBA4Qs1is8uw46t/WXzr/WJpeoh+H/lepRwM9NsEIYyT3+7BdG2v6DiH7ov8/uW9fGyZWGEOIHc/yj3Iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
@@ -136,10 +136,7 @@
     "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

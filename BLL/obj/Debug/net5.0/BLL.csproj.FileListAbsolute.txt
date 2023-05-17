@@ -28,3 +28,18 @@ C:\Users\j\Desktop\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.dll
 C:\Users\j\Desktop\WebApplication5 - Copy\BLL\obj\Debug\net5.0\refint\BLL.dll
 C:\Users\j\Desktop\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.pdb
 C:\Users\j\Desktop\WebApplication5 - Copy\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\BLL\obj\Debug\net5.0\ref\BLL.dll
