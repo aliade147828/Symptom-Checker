@@ -16,6 +16,6 @@ namespace DAL.Entities
         public string Name { get; set; }
         public string phoneNumber { get; set; }
         [ValidateNever]
-        public Appointment Appointment { get; set; }
+        public Appoinment Appointment { get; set; }
     }
 }

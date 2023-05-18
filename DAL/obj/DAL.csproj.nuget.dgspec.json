@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj": {}
+    "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj": {
+    "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\obj\\",
+        "projectPath": "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
+        "outputPath": "D:\\Gradution Project\\Symptom-Checker\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -73,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -82,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplication5.Data;
 
-namespace WebApplication5.Data.Migrations
+namespace DAL.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20230518125052_add-all")]
+    partial class addall
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -19,7 +21,7 @@ namespace WebApplication5.Data.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("DAL.Entities.Appointment", b =>
+            modelBuilder.Entity("DAL.Entities.Appoinment", b =>
                 {
                     b.Property<int>("id")
                         .ValueGeneratedOnAdd()
@@ -45,7 +47,7 @@ namespace WebApplication5.Data.Migrations
 
                     b.HasIndex("DoctorId");
 
-                    b.ToTable("Appointments");
+                    b.ToTable("Appoinments");
                 });
 
             modelBuilder.Entity("DAL.Entities.Department", b =>
@@ -302,10 +304,10 @@ namespace WebApplication5.Data.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
-            modelBuilder.Entity("DAL.Entities.Appointment", b =>
+            modelBuilder.Entity("DAL.Entities.Appoinment", b =>
                 {
                     b.HasOne("DAL.Entities.Doctor", "Doctor")
-                        .WithMany("Appointment")
+                        .WithMany("Appoinment")
                         .HasForeignKey("DoctorId");
 
                     b.Navigation("Doctor");
@@ -378,7 +380,7 @@ namespace WebApplication5.Data.Migrations
 
             modelBuilder.Entity("DAL.Entities.Doctor", b =>
                 {
-                    b.Navigation("Appointment");
+                    b.Navigation("Appoinment");
                 });
 #pragma warning restore 612, 618
         }

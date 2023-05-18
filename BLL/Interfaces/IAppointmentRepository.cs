@@ -8,9 +8,9 @@ using WebApplication5.BLL.Interfaces;
 
 namespace BLL.Interfaces
 {
-    public interface IAppointmentRepository : IGenericRepository<Appointment>
+    public interface IAppointmentRepository : IGenericRepository<Appoinment>
     {
-        IEnumerable<Appointment> GetAllWithDocotr(string id = null);
+        IEnumerable<Appoinment> GetAllWithDocotr(string id = null);
 
     }
 }

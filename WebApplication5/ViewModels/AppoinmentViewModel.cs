@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication5.ViewModels
 {
-    public class AppointmentViewModel
+    public class AppoinmentViewModel
     {
         public string Name { get; set; }
         [Display(Name = "Phone Number")]

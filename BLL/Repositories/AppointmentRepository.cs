@@ -11,7 +11,7 @@ using WebApplication5.Data;
 
 namespace BLL.Repositories
 {
-    public class AppointmentRepository :GenericRepository<Appointment>, IAppointmentRepository
+    public class AppointmentRepository :GenericRepository<Appoinment>, IAppointmentRepository
     {
         private readonly ApplicationDbContext context;
 
@@ -20,12 +20,12 @@ namespace BLL.Repositories
             this.context = context;
         }
 
-        public IEnumerable<Appointment> GetAllWithDocotr(string id = null)
+        public IEnumerable<Appoinment> GetAllWithDocotr(string id = null)
         {
             if (id == null)
-                return context.Appointments.Include(a => a.Doctor).ToList();
+                return context.Appoinments.Include(a => a.Doctor).ToList();
             else
-                return context.Appointments.Where(a => a.DoctorId == id).Include(a => a.Doctor).ToList();
+                return context.Appoinments.Where(a => a.DoctorId == id).Include(a => a.Doctor).ToList();
 
         }
     }

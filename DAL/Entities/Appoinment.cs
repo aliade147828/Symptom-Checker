@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Entities
 {
-    public class Appointment
+    public class Appoinment
     {
         [Key]
         public int id { get; set; }

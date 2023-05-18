@@ -10,12 +10,12 @@ using WebApplication5.ViewModels;
 
 namespace WebApplication5.Controllers
 {
-    public class AppointmentController : Controller
+    public class AppoinmentController : Controller
     {
         private readonly UserManager<Doctor> userManger;
         private readonly IMapper mapper;
         private readonly IUnitOfWork unitOfWork;
-        public AppointmentController(UserManager<Doctor> userManger, IMapper mapper, IUnitOfWork unitOfWork)
+        public AppoinmentController(UserManager<Doctor> userManger, IMapper mapper, IUnitOfWork unitOfWork)
         {
             this.userManger = userManger;
             this.mapper = mapper;
@@ -31,11 +31,11 @@ namespace WebApplication5.Controllers
             return View(appointments);
         }
 
-        public async Task<IActionResult> Appointment(string doctorId)
+        public async Task<IActionResult> Appoinment(string doctorId)
         {
 
             var doctor = await userManger.FindByIdAsync(doctorId);
-            var appointmetVM = new AppointmentViewModel()
+            var appointmetVM = new AppoinmentViewModel()
             {
                 Doctor = doctor,
                 DoctorId = doctor.Id,
@@ -44,9 +44,9 @@ namespace WebApplication5.Controllers
             return View(appointmetVM);
         }
         [HttpPost]
-        public async Task<IActionResult> Appointment(AppointmentViewModel appointmentVM)
+        public async Task<IActionResult> Appoinment(AppoinmentViewModel appointmentVM)
         {
-            var appointment = new Appointment
+            var appointment = new Appoinment
             {
                 DoctorId = appointmentVM.DoctorId,
                 Name = appointmentVM.Name,

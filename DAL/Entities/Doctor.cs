@@ -21,6 +21,6 @@ namespace DAL.Entities
         [ForeignKey("DNO")]
         public Department? Department { get; set; }
         [ValidateNever]
-        public ICollection<Appointment>? Appointment { get; set; }
+        public ICollection<Appoinment>? Appoinment { get; set; }
     }
 }
