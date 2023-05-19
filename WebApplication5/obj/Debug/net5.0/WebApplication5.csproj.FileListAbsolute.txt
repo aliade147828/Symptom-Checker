@@ -1074,3 +1074,7 @@ D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\WebApplica
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Appoinment.cshtml.g.cs
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Index.cshtml.g.cs
+D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\PartialViews\_AppoinmentModalPartialView.cshtml.g.cs
+D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\Index.cshtml.g.cs
+D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\Details.cshtml.g.cs
+D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\SendRequest.cshtml.g.cs

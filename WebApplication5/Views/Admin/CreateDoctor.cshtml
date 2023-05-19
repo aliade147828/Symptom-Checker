@@ -4,7 +4,7 @@
 @using SymptomChecker.Models
 @inject IDepartmentRepository DepartmentRepository
 @{
-    //var departments = new SelectList(ViewBag.departments ,"id", "name");
+    
        var departments = new SelectList( DepartmentRepository.GetAll() ,"DNO", "DName");
 }
 @{

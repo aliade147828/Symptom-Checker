@@ -19,6 +19,6 @@ namespace DAL.Entities
         public string Name { get; set; }
         [Required]
         public string FileName { get; set; }
-        public bool? Approved { get; set; }
+        public string Status { get; set; }
     }
 }

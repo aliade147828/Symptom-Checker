@@ -8,5 +8,6 @@ namespace WebApplication5.BLL.Interfaces
 {
     public interface IDoctorRepository:IGenericRepository<Doctor>
     {
+        public IEnumerable<Doctor> SearchDoctors(string name, string location, int? departmentId);
     }
 }

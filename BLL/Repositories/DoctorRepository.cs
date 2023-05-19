@@ -18,8 +18,28 @@ namespace WebApplication5.BLL.Repositories
             this.context = context;
         }
 
+        public IEnumerable<Doctor> SearchDoctors(string name, string location, int? departmentId)
+        {
 
-      
-      
+            var query = ((IEnumerable<Doctor>)context.Doctor).AsQueryable();
+
+            if (!string.IsNullOrEmpty(name))
+            {
+                query = query.Where(d => d.UserName.Contains(name));
+            }
+            if (!string.IsNullOrEmpty(location))
+            {
+                query = query.Where(d => d.Location.Contains(location));
+            }
+            if (departmentId != null)
+            {
+                query = query.Where(d => d.DNO == departmentId);
+            }
+
+
+            return query.ToList();
+        }
+
+
     }
 }
