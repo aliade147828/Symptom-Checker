@@ -25,10 +25,10 @@ namespace WebApplication5.BLL.Repositories
             return context.SaveChanges();
         }
 
-        public async Task<int> Delete(T item)
+        public  int Delete(T item)
         {
             context.Set<T>().Remove(item);
-            return await context.SaveChangesAsync();
+            return  context.SaveChanges();
         }
 
         public T Get(int? id)

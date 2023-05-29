@@ -16,7 +16,7 @@ namespace WebApplication5.BLL.Interfaces
 
         int Update(T T);
 
-        Task<int> Delete(T T);
+        int Delete(T T);
         IEnumerable<Doctor> Search(string Name);
     }
 }
