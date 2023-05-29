@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gradution Project\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {}
+    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\WebApplication5\\WebApplication5.csproj": {}
   },
   "projects": {
-    "D:\\Gradution Project\\Symptom-Checker\\BLL\\BLL.csproj": {
+    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\Symptom-Checker\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\Gradution Project\\Symptom-Checker\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\Symptom-Checker\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj"
+              "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj"
               }
             }
           }
@@ -49,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj": {
+    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Gradution Project\\Symptom-Checker\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\Symptom-Checker\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,8 +131,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -142,21 +140,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Gradution Project\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {
+    "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\WebApplication5\\WebApplication5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
+        "projectUniqueName": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\WebApplication5\\WebApplication5.csproj",
         "projectName": "WebApplication5",
-        "projectPath": "D:\\Gradution Project\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\Symptom-Checker\\WebApplication5\\obj\\",
+        "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\WebApplication5\\WebApplication5.csproj",
+        "packagesPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\WebApplication5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,8 +168,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Gradution Project\\Symptom-Checker\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\Gradution Project\\Symptom-Checker\\BLL\\BLL.csproj"
+              "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Eng Magdi .LAPTOP-G49VBK4L\\Downloads\\WebApplication5 - Copy\\BLL\\BLL.csproj"
               }
             }
           }
@@ -221,8 +219,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -234,7 +231,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

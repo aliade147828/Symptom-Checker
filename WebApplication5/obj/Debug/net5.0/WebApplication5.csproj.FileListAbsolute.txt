@@ -830,8 +830,6 @@ C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplicat
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\Index.cshtml.g.cs
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\mangeRoles.cshtml.g.cs
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Admin\VisitDoctor.cshtml.g.cs
-C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appointment\Appointment.cshtml.g.cs
-C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appointment\Index.cshtml.g.cs
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
@@ -1074,3 +1072,5 @@ D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\WebApplica
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Appoinment.cshtml.g.cs
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Index.cshtml.g.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Appoinment.cshtml.g.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\Index.cshtml.g.cs
