@@ -102,5 +102,15 @@ namespace WebApplication5.Controllers
 
         }
 
+
+        #region APIs 
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var departments = mapper.Map<IEnumerable<Department>, IEnumerable<DepartmentViewModel>>(unitOfWork.DepartmentRepository.GetAll());
+            return Json(new { data = departments});
+        }
+        #endregion
+
     }
 }
