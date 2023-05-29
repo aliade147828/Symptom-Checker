@@ -21,8 +21,8 @@ namespace WebApplication5.BLL.Repositories
         public IEnumerable<Doctor> SearchDoctors(string name, string location, int? departmentId)
         {
 
-            var query = ((IEnumerable<Doctor>)context.Doctor).AsQueryable();
-
+            //var query = ((IEnumerable<Doctor>)context.Doctor).AsQueryable();
+            var query = context.Users.OfType<Doctor>();
             if (!string.IsNullOrEmpty(name))
             {
                 query = query.Where(d => d.UserName.Contains(name));
