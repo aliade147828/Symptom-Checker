@@ -1,58 +1,119 @@
 ﻿@using DAL.Entities
+@using WebApplication5.Interfaces;
+@inject IUnitOfWork unitOfWork;
+@{
+    //var Departments = new SelectList(ViewBag.Departments, "Id", "Name");
+    var Departments = new SelectList(unitOfWork.DepartmentRepository.GetAll(), "DNO", "DName");
+}
+@model IEnumerable<Doctor>
 
-@model IEnumerable<Doctor>  
+<section class="page-title bg-1">
+    <div class="overlay"></div>
+    <div class="">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <div class="s002">
+                        <form asp-action="FindADoctor">
+                            <fieldset>
+                                <legend>SEARCH DOCTOR</legend>
+                            </fieldset>
+                            <div class="inner-form">
+                                <div class="input-field first-wrap">
+                                    <div class="icon-wrap">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                            <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"></path>
+                                        </svg>
+                                    </div>
+                                    <input id="search" type="text" placeholder="Doctor Name" name="Name" />
+                                </div>
+                                <div class="input-field second-wrap">
+                                    <div class="icon-wrap">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"></path>
+                                        </svg>
+                                    </div>
+                                    <input class="Location" id="depart" type="text" placeholder="Location" name="Address" />
+                                </div>
+                                <div class="input-field fouth-wrap">
+                                    <div class="icon-wrap">
+                                        <!-- <i class="fa-regular fa-building"></i> -->
+                                    </div>
+
+                                    <select asp-items="Departments" name="Department">
+                                        <option> Department </option>
+                                    </select>
+                                </div>
+                                <div class="input-field fifth-wrap">
+                                    <button class="btn-search" type="submit">SEARCH</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
+@if (Model.Count() > 0)
+{
+    <section class="section doctors">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 text-center">
+                    <div class="section-title">
+                        <h2>Doctors</h2>
+                        <div class="divider mx-auto my-4"></div>
+                        <p>We provide a wide range of creative services adipisicing elit. Autem maxime rem modi eaque, voluptate. Beatae officiis neque </p>
+                    </div>
+                </div>
+            </div>
 
-    <form asp-action="FindADoctor">
-
-        <input  placeholder="search by name" name="searchValue"/>
-        
-          <input  placeholder="search by name" type="submit" value="search"/>
-        
-    </form>
-
-
-   @if(Model.Count() >0)
-    {
-         <table class="table table-hover table-striped">
-            <thead>
-                <tr>
-                    <th>@Html.DisplayNameFor(D=>D.UserName)</th>
-                   
-                
-                    <th> Visit</th>
-
-                </tr>
-            </thead>
-            <tbody>
+            <div class="row shuffle-wrapper portfolio-gallery">
                 @foreach (var doctor in Model)
                 {
-                    <tr>
-                        <td >@doctor.UserName</td>
-                        
-               <td > <a asp-action="Details"  asp-route-id="@doctor.Id" class="btn btn-Info">Visit</a></td>
-
-
-
-                    </tr>
+                    <div class="col-lg-3 col-sm-6 col-md-6 mb-4 ">
+                        <div class="position-relative doctor-inner-box">
+                            <div class="doctor-profile">
+                                <div class="doctor-img">
+                                    <img src="~/img/default-user-image.png" alt="@doctor.UserName -image" class="img-fluid w-100">
+                                </div>
+                            </div>
+                            <div class="content mt-3">
+                                <h4 class="mb-0"><a asp-action="profile" asp-controller="DoctorController1" asp-route-id="@doctor.Id">@doctor.UserName.Split("@")[0]</a></h4>
+                                <p>doctor</p>
+                            </div>
+                        </div>
+                    </div>
 
 
                 }
-
-                
-            </tbody>
-        </table>
-    }
-    else
-    {
-        <h2 class="alert alert-danger "> there is no Doctor match </h2>
-    }
-
+            </div>
+        </div>
+    </section>
+}
+else
+{
+    <h2 class="alert alert-danger my-3"> there is no Doctor match </h2>
+}
 
 
+<section class="section cta-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="cta-content">
+                    <div class="divider mb-4"></div>
+                    <h2 class="mb-5 text-lg">We are pleased to offer you the <span class="title-color">chance to have the healthy</span></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-                        
+
 @*
     For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
 *@

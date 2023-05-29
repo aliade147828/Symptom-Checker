@@ -32,11 +32,11 @@ function OnShowModal(obj, eventDetail) {
     console.log(obj.startStr)
     document.querySelector(".date__input").value = obj.startStr;
 
-    $(".appointmentModal").modal("show")
+    $(".appoinmentModal").modal("show")
 }
 
 function OnCloseModal() {
-    $(".appointmentModal").modal("hide")
+    $(".appoinmentModal").modal("hide")
 
 }
 //document.addEventListener('DOMContentLoaded', function () {

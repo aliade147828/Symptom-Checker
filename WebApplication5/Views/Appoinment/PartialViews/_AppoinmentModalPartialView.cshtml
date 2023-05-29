@@ -1,0 +1,67 @@
+﻿@model AppoinmentViewModel
+
+<div class="modal fade  appoinmentModal" role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <section class="appoinment section" style="padding-bottom:50px">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="mt-3">
+                                    <div class="feature-icon mb-3">
+                                        <i class="icofont-support text-lg"></i>
+                                    </div>
+                                    <span class="h3">Call for an Emergency Service!</span>
+                                    <h2 class="text-color mt-3">+84 789 1256 </h2>
+                                </div>
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
+                                    <h2 class="mb-2 title-color">Book an appoinment</h2>
+                                    <p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
+
+                                    <form asp-action="Appointment">
+                                        <div class="row">
+
+                                            <input hidden asp-for="DoctorId" />
+
+                                            <div class="form-groub mb-3 col-12">
+                                                <label asp-for="DoctorName"></label>
+                                                <input asp-for="DoctorName" class="form-control" readonly />
+                                            </div>
+
+
+                                            <div class="form-groub mb-3 col-lg-6">
+                                                <label asp-for="Date"></label>
+                                                <input asp-for="Date" class="form-control date__input" readonly />
+                                            </div>
+                                            <div class="form-groub mb-3 col-lg-6">
+                                                <label asp-for="Name"></label>
+                                                <input asp-for="Name" class="form-control" />
+                                            </div>
+                                            <div class="form-groub mb-3 col-lg-6">
+                                                <label asp-for="Email"></label>
+                                                <input asp-for="Email" class="form-control" />
+                                            </div>
+                                            <div class="form-groub mb-3 col-lg-6">
+                                                <label asp-for="PhoneNumber"></label>
+                                                <input asp-for="PhoneNumber" class="form-control" />
+                                            </div>
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="submit" class="btn btn-main btn-round-full">Make Appoinment</button>
+                                            <button type="button" class="btn btn-secondary btn-round-full" onclick="OnCloseModal()">Close</button>
+
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>

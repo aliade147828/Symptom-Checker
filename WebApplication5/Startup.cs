@@ -21,6 +21,7 @@ using WebApplication5.Interfaces;
 using Microsoft.AspNetCore.Identity.UI.Services;
 using WebApplication5.Services;
 using BLL.Interfaces;
+using WebApplication5.Mappers;
 
 namespace WebApplication5
 {
@@ -52,6 +53,10 @@ namespace WebApplication5
 
             services.AddScoped<IDoctorRepository, DoctorRepository>();
             services.AddAutoMapper(M => M.AddProfile(new DoctorProfile()));
+            services.AddAutoMapper(M => M.AddProfile(new AppoinmentProfile()));
+            services.AddAutoMapper(M => M.AddProfile(new RequestProfile()));
+
+
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddTransient<IEmailSender, EmailSender>();
 

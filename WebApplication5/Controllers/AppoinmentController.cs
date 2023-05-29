@@ -46,14 +46,15 @@ namespace WebApplication5.Controllers
         [HttpPost]
         public async Task<IActionResult> Appoinment(AppoinmentViewModel appointmentVM)
         {
-            var appointment = new Appoinment
-            {
-                DoctorId = appointmentVM.DoctorId,
-                Name = appointmentVM.Name,
-                AppointmentTime = DateTime.Parse(appointmentVM.Date),
-                PhoneNumber = appointmentVM.PhoneNumber,
-                Email = appointmentVM.Email,
-            };
+            //var appointment = new Appoinment
+            //{
+            //    DoctorId = appointmentVM.DoctorId,
+            //    Name = appointmentVM.Name,
+            //    AppointmentTime = DateTime.Parse(appointmentVM.Date),
+            //    PhoneNumber = appointmentVM.PhoneNumber,
+            //    Email = appointmentVM.Email,
+            //};
+            var appointment = mapper.Map<AppoinmentViewModel, Appoinment>(appointmentVM);
             if (ModelState.IsValid)
             {
                 unitOfWork.AppointmentRepository.Add(appointment);
