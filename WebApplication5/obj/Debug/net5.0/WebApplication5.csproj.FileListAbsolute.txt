@@ -1308,3 +1308,10 @@ D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\re
 D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\WebApplication5.pdb
 D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\WebApplication5.genruntimeconfig.cache
 D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\ref\WebApplication5.dll
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\Create.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\Delete.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\Details.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\PartialView\_CreateEditPartialView.cshtml.g.cs
+D:\Gradution Project\final v\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Department\PartialView\_DetailsDeletePartialView.cshtml.g.cs
