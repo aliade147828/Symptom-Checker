@@ -27,18 +27,14 @@ using WebApplication5.Models;
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 1 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\Shared\_LoginPartial.cshtml"
-=======
-#line 4 "D:\Gradution Project\Symptom-Checker\WebApplication5\Views\_ViewImports.cshtml"
+#line 4 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\_ViewImports.cshtml"
 using WebApplication5.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 1 "D:\Gradution Project\Symptom-Checker\WebApplication5\Views\Shared\_LoginPartial.cshtml"
->>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+#line 1 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\Shared\_LoginPartial.cshtml"
 using DAL.Entities;
 
 #line default
@@ -135,11 +131,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("                  ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee99780", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee99686", async() => {
->>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee910006", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -166,11 +158,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee911437", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee911311", async() => {
->>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee911664", async() => {
                 WriteLiteral("Hello ");
 #nullable restore
 #line 22 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\Shared\_LoginPartial.cshtml"
@@ -198,11 +186,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n        </li>\r\n        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee913397", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee913239", async() => {
->>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee913624", async() => {
                 WriteLiteral("\r\n                <button  type=\"submit\" class=\"nav-link btn btn-link text-dark\">Logout</button>\r\n            ");
             }
             );
@@ -249,11 +233,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee916701", async() => {
-=======
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee916479", async() => {
->>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee916928", async() => {
                 WriteLiteral("Login");
             }
             );

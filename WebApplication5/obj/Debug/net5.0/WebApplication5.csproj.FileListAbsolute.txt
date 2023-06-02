@@ -1081,3 +1081,7 @@ D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\View
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\Details.cshtml.g.cs
 D:\Gradution Project\Symptom-Checker\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\SendRequest.cshtml.g.cs
 >>>>>>> b7b306b4b7d167e1b791c0346d2791a06f15bb19
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Appoinment\PartialViews\_AppoinmentModalPartialView.cshtml.g.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\Details.cshtml.g.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\Index.cshtml.g.cs
+C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\obj\Debug\net5.0\Razor\Views\Request\SendRequest.cshtml.g.cs
