@@ -58,3 +58,18 @@ D:\Gradution Project\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.dll
 D:\Gradution Project\Symptom-Checker\BLL\obj\Debug\net5.0\refint\BLL.dll
 D:\Gradution Project\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.pdb
 D:\Gradution Project\Symptom-Checker\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Gradution Project\final v\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Gradution Project\final v\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.dll
+D:\Gradution Project\final v\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Gradution Project\final v\Symptom-Checker\BLL\bin\Debug\net5.0\DAL.dll
+D:\Gradution Project\final v\Symptom-Checker\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.dll
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\ref\BLL.dll

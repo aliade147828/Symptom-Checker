@@ -58,3 +58,18 @@ D:\Gradution Project\Symptom-Checker\DAL\obj\Debug\net5.0\refint\DAL.dll
 D:\Gradution Project\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.pdb
 D:\Gradution Project\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
 D:\Gradution Project\Symptom-Checker\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Gradution Project\final v\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Gradution Project\final v\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Gradution Project\final v\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Gradution Project\final v\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.dll
+D:\Gradution Project\final v\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.dll
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\ref\DAL.dll

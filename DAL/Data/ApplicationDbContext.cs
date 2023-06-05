@@ -18,7 +18,6 @@ namespace WebApplication5.Data
        
 
 
-        public DbSet<Doctor> Employee { get; set; }
         public DbSet<Appoinment> Appoinments { get; set; }
         public DbSet<Request> Requests{ get; set; }
 

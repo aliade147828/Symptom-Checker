@@ -55,6 +55,8 @@ namespace WebApplication5
             services.AddAutoMapper(M => M.AddProfile(new DoctorProfile()));
             services.AddAutoMapper(M => M.AddProfile(new AppoinmentProfile()));
             services.AddAutoMapper(M => M.AddProfile(new RequestProfile()));
+            services.AddAutoMapper(M => M.AddProfile(new DepartmentProfile()));
+
 
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
