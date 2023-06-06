@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Gradution Project\\final v\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {}
+    "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {}
   },
   "projects": {
-    "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\BLL.csproj": {
+    "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\habiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\habiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\DAL.csproj"
+              "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\DAL.csproj"
               }
             }
           }
@@ -59,21 +63,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\DAL.csproj": {
+    "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\habiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\habiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,21 +150,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Gradution Project\\final v\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {
+    "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Gradution Project\\final v\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
+        "projectUniqueName": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
         "projectName": "WebApplication5",
-        "projectPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
-        "packagesPath": "C:\\Users\\Youssef\\.nuget\\packages\\",
-        "outputPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\WebApplication5\\obj\\",
+        "projectPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\WebApplication5\\WebApplication5.csproj",
+        "packagesPath": "C:\\Users\\habiba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\WebApplication5\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Youssef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\habiba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,8 +182,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\BLL.csproj": {
-                "projectPath": "D:\\Gradution Project\\final v\\Symptom-Checker\\BLL\\BLL.csproj"
+              "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\habiba\\Desktop\\medical checker\\Symptom-Checker\\BLL\\BLL.csproj"
               }
             }
           }
@@ -234,7 +246,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
