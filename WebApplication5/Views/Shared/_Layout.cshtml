@@ -4,7 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - WebApplication5</title>
+
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="stylesheet" href="~/css/style.css" />
 
@@ -34,10 +36,14 @@
                          <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">manage users</a>
                         </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Department" asp-action="Index">Department</a>
+                            </li>
                         }
 
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="FindADoctor">Find A Doctor</a>
+
                         </li>
                          
                          <li class="nav-item">
@@ -52,12 +58,12 @@
         {
             
             
-         <div class=" contact-icons">
-    <a href="+201151988689"><img class="phone-icon" src="~/images/phone-call.png" width="50px" height="50px">      </a>   
+                 <div class=" contact-icons">
+                    <a href="+201151988689"><img class="phone-icon" src="~/images/phone-call.png" width="50px" height="50px">      </a>   
 
- <a href="http://wa.me/+2011511988689">  <img class="whatsapp-icon mt-2" src="~/images/whatsapp.png" width="50px" height="50px">   </a>
+                    <a href="http://wa.me/+2011511988689">  <img class="whatsapp-icon mt-2" src="~/images/whatsapp.png" width="50px" height="50px">   </a>
        
-</div>
+                 </div>
         }
 
 
@@ -68,11 +74,13 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top  text-muted">
         <div class="container">
             &copy; 2023 - WebApplication5 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

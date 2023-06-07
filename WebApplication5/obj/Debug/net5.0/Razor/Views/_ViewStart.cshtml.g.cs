@@ -34,11 +34,7 @@ using WebApplication5.Models;
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 4 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\_ViewImports.cshtml"
-=======
 #line 4 "D:\Gradution Project\final v\Symptom-Checker\WebApplication5\Views\_ViewImports.cshtml"
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
 using WebApplication5.ViewModels;
 
 #line default

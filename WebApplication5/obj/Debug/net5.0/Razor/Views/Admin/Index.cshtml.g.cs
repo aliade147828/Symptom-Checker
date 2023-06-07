@@ -40,11 +40,7 @@ using WebApplication5.ViewModels;
 #line default
 #line hidden
 #nullable disable
-<<<<<<< HEAD
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8b5808ad427b592e5cab7e64d5c54fb010d80e44", @"/Views/Admin/Index.cshtml")]
-=======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d66d23a30b74cca4474b5bd43bcb1dde240f3cea", @"/Views/Admin/Index.cshtml")]
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8779e836ae1632223bf3d18b22a703167d588089", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Admin_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<userViewModel>>

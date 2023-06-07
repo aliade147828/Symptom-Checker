@@ -10,10 +10,7 @@ namespace WebApplication5.Mappers
     {
         public AppoinmentProfile()
         {
-            CreateMap<AppoinmentViewModel, Appoinment>()
-                .ForMember(dest => dest.AppointmentTime, src => src.MapFrom(src => DateTime.Parse(src.Date)))
-                .ReverseMap();
-               
+            CreateMap<AppoinmentViewModel, Appoinment>().ReverseMap();
 
         }
     }

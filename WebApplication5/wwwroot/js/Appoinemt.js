@@ -14,12 +14,9 @@ function InitializeCalender() {
                 selectable: true,
                 editable: false,
                 select: function (event) {
-                    OnShowModal(event, null);
+                    clickEvent(event);
                 },
-                //dateClick: function (info) {
-                //    dateSelect = info.dateStr
-                //    console.log(dateSelect)
-                //}
+
             });
         }
         calendar.render();
@@ -27,7 +24,22 @@ function InitializeCalender() {
         console.log(e);
     }
 }
+function clickEvent(obj) {
+    // Get current timestamp
+    var todayTimestamp = new Date().setHours(0, 0, 0, 0);
 
+    // Create timestamp to compare to
+    var dateToCompareTimestamp = new Date(obj.startStr).setHours(0, 0, 0, 0);
+
+    // Compare timestamps
+    if (dateToCompareTimestamp < todayTimestamp) {
+        ErrorAlert("Please do not choose a day that has passed")
+    } else if (dateToCompareTimestamp == todayTimestamp) {
+        ErrorAlert("You Can Make Appoinment Today")
+    } else {
+        OnShowModal(obj)
+    }
+}
 function OnShowModal(obj, eventDetail) {
     console.log(obj.startStr)
     document.querySelector(".date__input").value = obj.startStr;
@@ -39,10 +51,12 @@ function OnCloseModal() {
     $(".appoinmentModal").modal("hide")
 
 }
-//document.addEventListener('DOMContentLoaded', function () {
-//    var calendarEl = document.getElementById('calendar');
-//    var calendar = new FullCalendar.Calendar(calendarEl, {
-//        initialView: 'dayGridMonth'
-//    });
-//    calendar.render();
-//});
+function ErrorAlert(message) {
+    console.log(message)
+    swal({
+        title: "Oops...!",
+        text: message,
+        icon: "error",
+    });
+
+}

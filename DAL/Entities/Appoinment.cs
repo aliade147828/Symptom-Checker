@@ -17,7 +17,11 @@ namespace DAL.Entities
         public string Email { get; set; }
 
         public string DoctorId { get; set; }
-        public DateTime AppointmentTime { get; set; }
+        public string Date { get; set; }
+        public string Status{ get; set; }
+
+
+        public string? Time { get; set; }
         [ForeignKey("DoctorId")]
         public Doctor Doctor { get; set; }
     }

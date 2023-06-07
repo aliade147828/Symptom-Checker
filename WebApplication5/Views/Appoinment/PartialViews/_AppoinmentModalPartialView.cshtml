@@ -22,7 +22,7 @@
                                     <h2 class="mb-2 title-color">Book an appoinment</h2>
                                     <p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit . Iste dolorum atque similique praesentium soluta.</p>
 
-                                    <form asp-action="Appointment">
+                                    <form asp-action="Appoinment">
                                         <div class="row">
 
                                             <input hidden asp-for="DoctorId" />
@@ -30,6 +30,7 @@
                                             <div class="form-groub mb-3 col-12">
                                                 <label asp-for="DoctorName"></label>
                                                 <input asp-for="DoctorName" class="form-control" readonly />
+                                                
                                             </div>
 
 
@@ -40,14 +41,19 @@
                                             <div class="form-groub mb-3 col-lg-6">
                                                 <label asp-for="Name"></label>
                                                 <input asp-for="Name" class="form-control" />
+                                                <span asp-validation-for="Name" class="fs-6 text-danger"></span>
                                             </div>
                                             <div class="form-groub mb-3 col-lg-6">
                                                 <label asp-for="Email"></label>
                                                 <input asp-for="Email" class="form-control" />
+                                                <span asp-validation-for="Email" class="fs-6 text-danger"></span>
+
                                             </div>
                                             <div class="form-groub mb-3 col-lg-6">
                                                 <label asp-for="PhoneNumber"></label>
                                                 <input asp-for="PhoneNumber" class="form-control" />
+                                                <span asp-validation-for="PhoneNumber" class="fs-6 text-danger"></span>
+
                                             </div>
                                         </div>
                                         <div class="modal-footer">
@@ -65,3 +71,8 @@
         </div>
     </div>
 </div>
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial"></partial>
+}

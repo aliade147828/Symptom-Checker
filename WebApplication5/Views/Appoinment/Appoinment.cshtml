@@ -1,13 +1,18 @@
 ﻿@model WebApplication5.ViewModels.AppoinmentViewModel
 
 
-<h1>Appointment</h1>
-<div id="calendar"></div>
+
+<div class="container">
+
+    <div id="calendar"></div>
+</div>
 
 
 <partial name="PartialViews/_AppoinmentModalPartialView" />
+<partial name="_Notification" />
 @section Scripts{
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.5/index.global.min.js'></script>
-    <script src="~/js/Appoinment.js"></script>
+    
+        <script src="~/js/Appoinemt.js"></script>
         <partial name="_ValidationScriptsPartial" />
 }

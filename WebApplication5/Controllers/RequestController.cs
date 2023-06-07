@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using DAL.Entities;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
@@ -22,10 +23,11 @@ namespace WebApplication5.Controllers
             this.mapper = mapper;
             this.environment = environment;
         }
+        [Authorize(Roles = SD.Role_Admin)]
         public IActionResult Index()
         {
-            var mapRequests = mapper.Map<IEnumerable<Request>, IEnumerable<RequestViewModel>>(unitOfWork.RequestRepository.GetAll());
-            return View(mapRequests);
+            
+            return View();
         }
 
         public IActionResult Details(int? id)
@@ -37,6 +39,18 @@ namespace WebApplication5.Controllers
             var mapRequest = mapper.Map<Request, RequestViewModel>(request);
             return View(mapRequest);
         }
+        public IActionResult Cancelled(RequestViewModel  requestVM)
+        {
+
+            var request = unitOfWork.RequestRepository.Get(requestVM.Id);
+           
+            request.Status = SD.RequestStatusDeleted;
+            unitOfWork.RequestRepository.Update(request);
+            TempData["success"] = "The appointment  has been cancelled";
+            //SEND EMAIL
+            return RedirectToAction("Index");
+        }
+
         public IActionResult SendRequest()
         {
             return View();
@@ -68,5 +82,16 @@ namespace WebApplication5.Controllers
             //Send the File to Download.
             return File(bytes, "application/octet-stream", fileName);
         }
+
+
+
+        #region APIs 
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var mapRequests = mapper.Map<IEnumerable<Request>, IEnumerable<RequestViewModel>>(unitOfWork.RequestRepository.GetAll());
+            return Json(new { data = mapRequests });
+        }
+        #endregion
     }
 }

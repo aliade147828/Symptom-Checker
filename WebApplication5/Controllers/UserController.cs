@@ -37,9 +37,10 @@ namespace WebApplication5.Controllers
 
 
 
-        public async Task<IActionResult> FindADoctor([FromForm] SearchModel search)
+        public IActionResult FindADoctor([FromForm] SearchModel search)
         {
          
+            
             if (string.IsNullOrEmpty(search.Name) && string.IsNullOrEmpty(search.Location) && search.Department == null)
             {
                 var doctor = unitOfWork.DoctorRepository.GetAll();
@@ -52,7 +53,11 @@ namespace WebApplication5.Controllers
             }
 
         }
-
+        public async Task<IActionResult> Profile(string id)
+        {
+            var doctor = await userManger.FindByIdAsync(id);
+            return View(doctor);
+        }
         public async Task<IActionResult> Details(string? id)
         {
             if (id == null)

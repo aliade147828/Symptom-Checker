@@ -1,0 +1,10 @@
+﻿@model DAL.Entities.Doctor;
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h1>Profile</h1>
+<br>@Model.UserName</br>
+<br />
+<br />
+<a asp-action="Appoinment" asp-controller="Appoinment" asp-route-doctorId="@Model.Id">Make Appointment</a>

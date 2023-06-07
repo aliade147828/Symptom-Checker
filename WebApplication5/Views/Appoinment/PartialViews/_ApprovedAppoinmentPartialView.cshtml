@@ -1,0 +1,30 @@
+﻿@model AppoinmentViewModel
+<div class="modal fade ApprovedModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Set the time</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <form asp-action="Approved" asp-controller="Appoinment" class="appoinment-form">
+                        <div class="mb-2">
+                            <input asp-for="id" hidden />
+                            <input asp-for="Time" class="form-control" id="input" required/>
+                        </div>
+                        <div class="modal-footer">
+                        <button type="submit" class="btn btn-main btn-round-full" onclick="return ValidateInput()">Set the Time</button>
+                        <button type="button" class="btn btn-secondary btn-round-full" onclick="OnCloseModalApproved()">Close</button>
+
+                        </div>
+                    </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+

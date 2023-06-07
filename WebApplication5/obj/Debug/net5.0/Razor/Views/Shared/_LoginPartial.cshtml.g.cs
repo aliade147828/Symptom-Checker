@@ -27,22 +27,14 @@ using WebApplication5.Models;
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 4 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\_ViewImports.cshtml"
-=======
 #line 4 "D:\Gradution Project\final v\Symptom-Checker\WebApplication5\Views\_ViewImports.cshtml"
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
 using WebApplication5.ViewModels;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-<<<<<<< HEAD
-#line 1 "C:\Users\Eng Magdi .LAPTOP-G49VBK4L\Downloads\WebApplication5 - Copy\WebApplication5\Views\Shared\_LoginPartial.cshtml"
-=======
 #line 1 "D:\Gradution Project\final v\Symptom-Checker\WebApplication5\Views\Shared\_LoginPartial.cshtml"
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
 using DAL.Entities;
 
 #line default
@@ -139,11 +131,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("                  ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee910006", async() => {
-=======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee99766", async() => {
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -170,11 +158,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee911664", async() => {
-=======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee911399", async() => {
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
                 WriteLiteral("Hello ");
 #nullable restore
 #line 22 "D:\Gradution Project\final v\Symptom-Checker\WebApplication5\Views\Shared\_LoginPartial.cshtml"
@@ -202,11 +186,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n        </li>\r\n        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee913624", async() => {
-=======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee913335", async() => {
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
                 WriteLiteral("\r\n                <button  type=\"submit\" class=\"nav-link btn btn-link text-dark\">Logout</button>\r\n            ");
             }
             );
@@ -253,11 +233,7 @@ WriteAttributeValue("", 450, Convert.ToBase64String(UserManager.GetUserAsync(Use
 #line hidden
 #nullable disable
             WriteLiteral("        <li class=\"nav-item\">\r\n            ");
-<<<<<<< HEAD
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee916928", async() => {
-=======
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c15cd4f6fcf65d93c6e367834bc0c42213b47ee916591", async() => {
->>>>>>> 09e66af7c3fd2c366643596c00710eef8d87192a
                 WriteLiteral("Login");
             }
             );

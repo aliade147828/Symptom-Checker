@@ -28,5 +28,10 @@ namespace BLL.Repositories
                 return context.Appoinments.Where(a => a.DoctorId == id).Include(a => a.Doctor).ToList();
 
         }
+
+        public int NumberOfApooinments(string id, string date)
+        {
+            return context.Appoinments.Where(a => a.DoctorId ==id && a.Date == date).Count();
+        }
     }
 }

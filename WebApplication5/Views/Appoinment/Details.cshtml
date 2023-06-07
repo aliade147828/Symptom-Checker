@@ -1,0 +1,95 @@
+﻿@using WebApplication5.Utility;
+@model AppoinmentViewModel
+@{
+    ViewData["Title"] = "Deatils";
+}
+
+
+<div class="container">
+    <h2 class="mb-2">Appoinment Details</h2>
+    <hr />
+    <div class="my-3">
+        <div class="form-group mb-3">
+            <label asp-for="Name" class="form-label"></label>
+            <input asp-for="Name" class="form-control" readonly />
+
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Email" class="form-label"></label>
+            <input asp-for="Email" class="form-control" readonly />
+
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="PhoneNumber" class="form-label mr-2"></label>
+            <input asp-for="PhoneNumber" class="form-control" readonly />
+        </div>
+        @if (User.IsInRole(SD.Role_Admin))
+        {
+            <div class="form-group mb-3">
+                <label asp-for="DoctorName" class="form-label mr-2"></label>
+                <input asp-for="DoctorName" class="form-control" readonly />
+            </div>
+        }
+        <div class="form-group mb-3">
+            <label asp-for="Date" class="form-label mr-2"></label>
+            <input asp-for="Date" class="form-control" readonly />
+        </div>
+        @if (!string.IsNullOrEmpty(Model.Time))
+        {
+            <div class="form-group mb-3">
+                <label asp-for="Time" class="form-label mr-2"></label>
+                <input asp-for="Time" class="form-control" readonly />
+            </div>
+        }
+        else
+        {
+            <label asp-for="Time" class="form-label mr-2"></label>
+            <p>No time specified </p>
+        }
+        <div class="form-group mb-3">
+            <label asp-for="Status" class="form-label mr-2"></label>
+            <input asp-for="Status" class="form-control" readonly />
+        </div>
+    </div>
+
+    <div>
+        @if(User.IsInRole(SD.Role_Doctor)){
+            @if(Model.Status != SD.AppoinmentStatusApproved)
+            {
+                <button class="btn btn-primary" onclick="Approved()">Approoved</button>
+            }
+            @if(Model.Status != SD.AppoinmentStatusCancelled)
+            {
+                <button class="btn btn-danger" onclick="CancelledAppoinmnet()">Cancelled</button>
+            }
+        }
+
+        
+        <a asp-action="Index" class="btn btn-light mx-3">Back to list</a>
+
+    </div>
+</div>
+<partial name="PartialViews/_ApprovedAppoinmentPartialView" />
+<partial name="PartialViews/_CancelledAppoinmnetPartialView" />
+
+@section Scripts{
+    <script>
+
+        function Approved() {
+
+            $(".ApprovedModal").modal("show")
+        }
+        function OnCloseModalApproved() {
+            $(".ApprovedModal").modal("hide")
+
+        }
+        function CancelledAppoinmnet() {
+            $(".cancelledAppoinmnet").modal("show")
+        }
+        function OnCloseModalCancelled() {
+            $(".cancelledAppoinmnet").modal("hide")
+
+        }
+
+    </script>
+}

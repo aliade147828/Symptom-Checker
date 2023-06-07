@@ -11,6 +11,7 @@ namespace BLL.Interfaces
     public interface IAppointmentRepository : IGenericRepository<Appoinment>
     {
         IEnumerable<Appoinment> GetAllWithDocotr(string id = null);
+         int NumberOfApooinments(string id, string date);
 
     }
 }
