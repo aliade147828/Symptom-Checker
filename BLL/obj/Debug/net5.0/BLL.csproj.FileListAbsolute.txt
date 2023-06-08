@@ -73,3 +73,18 @@ D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.dll
 D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\refint\BLL.dll
 D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.pdb
 D:\Gradution Project\final v\Symptom-Checker\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\bin\Debug\net5.0\BLL.pdb
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\bin\Debug\net5.0\DAL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\bin\Debug\net5.0\DAL.pdb
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\refint\BLL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\BLL.pdb
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\BLL\obj\Debug\net5.0\ref\BLL.dll

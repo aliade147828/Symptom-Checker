@@ -462,6 +462,11 @@ legend {
     -webkit-padding-start: 0;
     -webkit-padding-end: 0;
 }
+.nav-logo img {
+    position: center center;
+    width: 30%;
+    height: 30%;
+}
 
 /*===============================
 =            Choices            =
@@ -2273,7 +2278,7 @@ a {
     position: relative;
     overflow: hidden;
     background: #fff;
-    background: url("../img/22.jpg") no-repeat;
+    background: url("../Images/bg/slider-bg-1.jpg") no-repeat;
     background-size: cover;
     min-height: 550px;
 }

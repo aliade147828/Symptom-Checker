@@ -73,3 +73,18 @@ D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\refint\DAL.dll
 D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.pdb
 D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
 D:\Gradution Project\final v\Symptom-Checker\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\refint\DAL.dll
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\habiba\Desktop\medical checker\Symptom-Checker\DAL\obj\Debug\net5.0\ref\DAL.dll

@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="Mailjet.Api" Version="1.2.2" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.17" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.17" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.17" />
@@ -28,6 +29,27 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\CVs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\plugins\bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\plugins\bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\plugins\bootstrap\js\popper.js" />
+    <None Include="wwwroot\plugins\counterup\jquery.counterup.min.js" />
+    <None Include="wwwroot\plugins\counterup\jquery.easing.js" />
+    <None Include="wwwroot\plugins\counterup\jquery.waypoints.min.js" />
+    <None Include="wwwroot\plugins\google-map\map.js" />
+    <None Include="wwwroot\plugins\icofont\fonts\icofont.woff2" />
+    <None Include="wwwroot\plugins\jquery\jquery.js" />
+    <None Include="wwwroot\plugins\shuffle\shuffle.min.js" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\config.rb" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\fonts\slick.svg" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick-theme.less" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick-theme.scss" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick.js" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick.less" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick.min.js" />
+    <None Include="wwwroot\plugins\slick-carousel\slick\slick.scss" />
   </ItemGroup>
 
 </Project>
